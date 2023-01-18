@@ -32,13 +32,13 @@ const HowToCreateABeautifulScreenshot = () => {
                     <span className="text-2xl font-bold pr-4">2. Use the right dimensions -</span>Screenshots come in a variety of sizes, depending on the device or platform they will be displayed on. Make sure you use the right dimensions for your screenshots so they look great and are easy to read.
                 </p>
                 <p className="pt-4 text-lg">
-                    <span className="text-2xl font-bold pr-4">3. Use high-quality images -</span>Use high-resolution images that are clear and crisp. If your screenshots contain text, make sure it is legible and easy to read. If you're using images of people, make sure they're well-lit and in focus.
+                    <span className="text-2xl font-bold pr-4">3. Use high-quality images -</span>Use high-resolution images that are clear and crisp. If your screenshots contain text, make sure it is legible and easy to read. If you&apos;re using images of people, make sure they&apos;re well-lit and in focus.
                 </p>
                 <p className="pt-4 text-lg">
                     <span className="text-2xl font-bold pr-4">4. Use a consistent style -</span>Use a consistent style for all your screenshots. This will help your screenshots look cohesive and professional. Choose a color scheme, font, and layout that will work well across all your screenshots.
                 </p>
                 <p className="pt-4 text-lg">
-                    <span className="text-2xl font-bold pr-4">5. Add Annotations -</span>Use annotations to call out key features or explain what's happening in your screenshots. Use arrows, circles, and other shapes to draw attention to specific elements
+                    <span className="text-2xl font-bold pr-4">5. Add Annotations -</span>Use annotations to call out key features or explain what&apos;s happening in your screenshots. Use arrows, circles, and other shapes to draw attention to specific elements
                 </p>
                 <p className="pt-4 text-lg">
                     <span className="text-2xl font-bold pr-4">6. Use device mockups -</span>Use device mockups to make your screenshots look more realistic and professional. Device mockups can be used to show how your app or website will look on different devices, such as phones, tablets, and laptops.
@@ -47,13 +47,13 @@ const HowToCreateABeautifulScreenshot = () => {
                     <span className="text-2xl font-bold pr-4">7. Use a photo editing tool -</span>Use a photo editing tool, such as Adobe Photoshop or Canva, to enhance your screenshots. These tools can be used to crop, resize, and adjust the brightness and contrast of your screenshots.
                 </p>
                 <p className="pt-4 text-lg">
-                    <span className="text-2xl font-bold pr-4">8. Optimize for social media -</span>If you're using your screenshots on social media, make sure they're optimized for that platform. Instagram, for example, uses a square format, so make sure your screenshots are in that format.
+                    <span className="text-2xl font-bold pr-4">8. Optimize for social media -</span>If you&apos;re using your screenshots on social media, make sure they&apos;re optimized for that platform. Instagram, for example, uses a square format, so make sure your screenshots are in that format.
                 </p>    
                 <p className="pt-4 text-lg">
                     <span className="text-2xl font-bold pr-4">8. Test your screenshots -</span>Before you use your screenshots in any marketing materials or on your website, test them out. Make sure they look great and are easy to read on different devices and in different lighting conditions.
                 </p>   
                 <p className="pt-4 text-lg">
-                    <span className="text-2xl font-bold pr-4">8. Keep it simple -</span>Keep it simple, don't add too much elements to the screenshot, make sure it's easy to understand what the app is doing.
+                    <span className="text-2xl font-bold pr-4">8. Keep it simple -</span>Keep it simple, don&apos;t add too much elements to the screenshot, make sure it&apos;s easy to understand what the app is doing.
                 </p>   
                 <p className="text-lg indent-4 py-4">
                 In conclusion, generating beautiful screenshots takes planning, attention to detail, and a bit of editing. By following these tips, you can create screenshots that will help you showcase your app or website in the best possible way.
