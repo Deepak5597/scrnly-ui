@@ -9,6 +9,13 @@ const HowToTakeAScreenshot = () => {
             <meta name="description" content="Taking screenshots is a simple and useful tool for capturing and sharing information from your device. However, the method for taking a screenshot can vary depending on the type of device you are using" />
             <meta name="viewport" content="width=device-width, initial-scale=1" />
             <link rel="icon" href="/logo.PNG" />
+
+            <meta property="og:title" content="How to take a screenshot"/>
+            <meta property="og:type" content="website"/>
+            <meta property="og:description" content="Taking screenshots is a simple and useful tool for capturing and sharing information from your device. However, the method for taking a screenshot can vary depending on the type of device you are using"/>
+            <meta property="og:keywords" content="Taking screenshots,Taking screenshots on smartphone,How to take screenshot on iPad,How to take screenshot on mac,How to take screenshot on laptop,How to take screenshot on tablets"/>
+            <meta property="og:image" content="/blog-2.jpg"/>
+
         </Head>
         <main className=" flex flex-col bg-gray-200">
             <header className="h-[55px] flex flex-row justify-between px-10 items-center bg-white">

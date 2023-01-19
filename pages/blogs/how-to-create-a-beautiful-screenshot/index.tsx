@@ -9,6 +9,12 @@ const HowToCreateABeautifulScreenshot = () => {
             <meta name="description" content="Creating beautiful screenshots for your app, website, or product can be a great way to showcase its features and attract users. Here is a guide on how to generate beautiful screenshots" />
             <meta name="viewport" content="width=device-width, initial-scale=1" />
             <link rel="icon" href="/logo.PNG" />
+
+            <meta property="og:title" content="How to create a beautiful screenshot"/>
+            <meta property="og:type" content="website"/>
+            <meta property="og:description" content="Creating beautiful screenshots for your app, website, or product can be a great way to showcase its features and attract users. Here is a guide on how to generate beautiful screenshots"/>
+            <meta property="og:keywords" content="Creating beautiful screenshots for your app,Creating beautiful screenshots for website,Creating beautiful screenshots for product,Guide to generate beautiful screenshots"/>
+            <meta property="og:image" content="/blog-1.jfif"/>
         </Head>
         <main className=" flex flex-col bg-gray-200">
             <header className="h-[55px] flex flex-row justify-between px-10 items-center bg-white">
